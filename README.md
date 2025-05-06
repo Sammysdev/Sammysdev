@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 ! My name is Samuel Agyemang</h2>
+<h2 align="left">Hi 👋 ! I am Samuel</h2>
 
 ###
 
