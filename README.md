@@ -10,7 +10,6 @@
 
 <br clear="both">
 
-<img align="right" height="150" src=""  />
 
 ###
 
@@ -39,6 +38,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sammysdev/Sammysdev/output/snake.svg" alt="Snake animation" />
 
 ###
